@@ -2,5 +2,5 @@
 
 ##
 ##系统展示：
-
+![首页](https://github.com/939386360/Collection-and-analysis-of-house-price/blob/main/img/1.png)
 
